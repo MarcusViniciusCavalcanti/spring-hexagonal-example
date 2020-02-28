@@ -10,7 +10,7 @@ import gs.hexagonaldemo.springhexagonaldemo.serviceadapters.GetUserServiceAdapte
 import gs.hexagonaldemo.springhexagonaldemo.verifiers.NameVerifierAdapter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
+//testes
 @Configuration
 public class ApplicationConfiguration {
 
